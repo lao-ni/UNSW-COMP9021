@@ -1,0 +1,387 @@
+TEST 1 BEGIN
+$ echo 72 2
+!
+1
+test_1.txt | python3 quiz_1.py
+Enter two integers, the second one being between 1 and 10 included: 72 2
+Here is the list of symbols:
+     ['!', '@']
+Here is the list of how many times each of them is to be displayed:
+     [6, 9]
+What is your favourite symbol? !
+How big do you want the gap to be (should be 1 or more)? 1
+What is the name of the file containing the instructions? test_1.txt
+I have a drawing for you...
+It is made of !, repeated 6 times,
+placed in the four corners of a rectangle,
+with a gap of 1 both horizontally and vertically.
+
+!!!!!! !!!!!!
+
+!!!!!! !!!!!!
+
+Like it?
+I am now going to process the instructions in the file.
+
+      !!!!!!!!!!
+
+Ok, but not a great drawing...
+TEST 1 END
+
+TEST 2 BEGIN
+$ echo 83 2
++
+2
+test_2.txt | python3 quiz_1.py
+Enter two integers, the second one being between 1 and 10 included: 83 2
+Here is the list of symbols:
+     ['&', '+']
+Here is the list of how many times each of them is to be displayed:
+     [2, 3]
+What is your favourite symbol? +
+How big do you want the gap to be (should be 1 or more)? 2
+What is the name of the file containing the instructions? test_2.txt
+I have a drawing for you...
+It is made of +, repeated 3 times,
+placed in the four corners of a rectangle,
+with a gap of 2 both horizontally and vertically.
+
++++  +++
+
+
++++  +++
+
+Like it?
+I am now going to process the instructions in the file.
+
+  ^^^^^^^^
+       *
+
+Ok, but not a great drawing...
+TEST 2 END
+
+TEST 3 BEGIN
+$ echo 94 3
+@
+3
+test_3.txt | python3 quiz_1.py
+Enter two integers, the second one being between 1 and 10 included: 94 3
+Here is the list of symbols:
+     ['*', '@', '!']
+Here is the list of how many times each of them is to be displayed:
+     [5, 5, 7]
+What is your favourite symbol? @
+How big do you want the gap to be (should be 1 or more)? 3
+What is the name of the file containing the instructions? test_3.txt
+I have a drawing for you...
+It is made of @, repeated 5 times,
+placed in the four corners of a rectangle,
+with a gap of 3 both horizontally and vertically.
+
+@@@@@   @@@@@
+
+
+
+@@@@@   @@@@@
+
+Like it?
+I am now going to process the instructions in the file.
+
+       ++++++++
+       %%%%%%%%%%
+     ^^^^^^^^
+
+Ok, but not a great drawing...
+TEST 3 END
+
+TEST 4 BEGIN
+$ echo 105 4
+~
+3
+test_4.txt | python3 quiz_1.py
+Enter two integers, the second one being between 1 and 10 included: 105 4
+Here is the list of symbols:
+     ['+', '%', '!', '~']
+Here is the list of how many times each of them is to be displayed:
+     [5, 9, 6, 5]
+What is your favourite symbol? ~
+How big do you want the gap to be (should be 1 or more)? 3
+What is the name of the file containing the instructions? test_4.txt
+I have a drawing for you...
+It is made of ~, repeated 5 times,
+placed in the four corners of a rectangle,
+with a gap of 3 both horizontally and vertically.
+
+~~~~~   ~~~~~
+
+
+
+~~~~~   ~~~~~
+
+Like it?
+I am now going to process the instructions in the file.
+
+    ^^^^^^^^^^^^
+        &&&&&&&&&&&
+ ~~~~~~~~~~~~
+   %%
+    ^^^^^^^^
+         @@@@@@@@@@@@@@@@@@
+   +++++
+    ~~~~~~~~~~~
+
+Ok, but not a great drawing...
+TEST 4 END
+
+TEST 5 BEGIN
+$ echo 116 5
+$
+4
+test_5.txt | python3 quiz_1.py
+Enter two integers, the second one being between 1 and 10 included: 116 5
+Here is the list of symbols:
+     ['+', '*', '$', '~', '%']
+Here is the list of how many times each of them is to be displayed:
+     [2, 3, 8, 8, 4]
+What is your favourite symbol? $
+How big do you want the gap to be (should be 1 or more)? 4
+What is the name of the file containing the instructions? test_5.txt
+I have a drawing for you...
+It is made of $, repeated 8 times,
+placed in the four corners of a rectangle,
+with a gap of 4 both horizontally and vertically.
+
+$$$$$$$$    $$$$$$$$
+
+
+
+
+$$$$$$$$    $$$$$$$$
+
+Like it?
+I am now going to process the instructions in the file.
+
+     &&&&&
+       $$$$$$$$
+         @@@@@@@@@@@@@@@@@@@
+    &&
+   ^^^^^^^^^^^^^^^^
+         +
+         $$$$$$$
+    ~~~~~~~~~~~~~~~~~
+
+Ok, but not a great drawing...
+TEST 5 END
+
+TEST 6 BEGIN
+$ echo 127 6
+*
+5
+test_6.txt | python3 quiz_1.py
+Enter two integers, the second one being between 1 and 10 included: 127 6
+Here is the list of symbols:
+     ['~', '!', '+', '&', '@', '*']
+Here is the list of how many times each of them is to be displayed:
+     [7, 4, 5, 5, 7, 1]
+What is your favourite symbol? *
+How big do you want the gap to be (should be 1 or more)? 5
+What is the name of the file containing the instructions? test_6.txt
+I have a drawing for you...
+It is made of *, repeated once,
+placed in the four corners of a rectangle,
+with a gap of 5 both horizontally and vertically.
+
+*     *
+
+
+
+
+
+*     *
+
+Like it?
+I am now going to process the instructions in the file.
+
+         %%%%%%%%%%
+       #######
+    %%%%%%%
+     ^^^^^^^^^
+ %%%%%%%%
+     !!
+    +++++++++++++++++++
+       %%%%%%%
+   &&&
+    ~
+
+Ok, but not a great drawing...
+TEST 6 END
+
+TEST 7 BEGIN
+$ echo 138 7
+^
+6
+test_7.txt | python3 quiz_1.py
+Enter two integers, the second one being between 1 and 10 included: 138 7
+Here is the list of symbols:
+     ['#', '^', '&', '%', '@', '!', '*']
+Here is the list of how many times each of them is to be displayed:
+     [4, 3, 3, 8, 3, 6, 4]
+What is your favourite symbol? ^
+How big do you want the gap to be (should be 1 or more)? 6
+What is the name of the file containing the instructions? test_7.txt
+I have a drawing for you...
+It is made of ^, repeated 3 times,
+placed in the four corners of a rectangle,
+with a gap of 6 both horizontally and vertically.
+
+^^^      ^^^
+
+
+
+
+
+
+^^^      ^^^
+
+Like it?
+I am now going to process the instructions in the file.
+
+       ^^^^^^
+        ################
+    @@@
+         #####
+       *********
+  ^^
+       *******************
+
+Ok, but not a great drawing...
+TEST 7 END
+
+TEST 8 BEGIN
+$ echo 149 8
+#
+7
+test_8.txt | python3 quiz_1.py
+Enter two integers, the second one being between 1 and 10 included: 149 8
+Here is the list of symbols:
+     ['!', '+', '$', '#', '*', '%', '~', '^']
+Here is the list of how many times each of them is to be displayed:
+     [3, 1, 7, 1, 1, 5, 2, 4]
+What is your favourite symbol? #
+How big do you want the gap to be (should be 1 or more)? 7
+What is the name of the file containing the instructions? test_8.txt
+I have a drawing for you...
+It is made of #, repeated once,
+placed in the four corners of a rectangle,
+with a gap of 7 both horizontally and vertically.
+
+#       #
+
+
+
+
+
+
+
+#       #
+
+Like it?
+I am now going to process the instructions in the file.
+
+       ^^^^^^^^^^^^^^^^^
+         &&&&&&
+  @@@@@
+ *********
+         ++++++++++++++
+        ~~~~
+    &&&&&&&&&&
+     @@@@@@@@@@@@@@@
+        %%%%%%%%%%%%
+
+Ok, but not a great drawing...
+TEST 8 END
+
+TEST 9 BEGIN
+$ echo 160 9
+&
+8
+test_9.txt | python3 quiz_1.py
+Enter two integers, the second one being between 1 and 10 included: 160 9
+Here is the list of symbols:
+     ['!', '*', '%', '#', '+', '$', '@', '^', '&']
+Here is the list of how many times each of them is to be displayed:
+     [9, 4, 7, 8, 1, 5, 2, 6, 1]
+What is your favourite symbol? &
+How big do you want the gap to be (should be 1 or more)? 8
+What is the name of the file containing the instructions? test_9.txt
+I have a drawing for you...
+It is made of &, repeated once,
+placed in the four corners of a rectangle,
+with a gap of 8 both horizontally and vertically.
+
+&        &
+
+
+
+
+
+
+
+
+&        &
+
+Like it?
+I am now going to process the instructions in the file.
+
+ @@@@@@@@@@@@@@@@
+  !!!!!!!!!!!!!!!
+        &&&&&&&&&&&
+    $$$$$$$$$
+      &&&&&&&&&&&&&&&&&
+         ^^^
+    ++++++++++++++++
+
+Ok, but not a great drawing...
+TEST 9 END
+
+TEST 10 BEGIN
+Enter two integers, the second one being between 1 and 10 included: 171 10
+Here is the list of symbols:
+     ['*', '^', '+', '~', '$', '#', '!', '%', '@', '&']
+Here is the list of how many times each of them is to be displayed:
+     [3, 3, 3, 3, 4, 3, 9, 4, 4, 2]
+What is your favourite symbol? %
+How big do you want the gap to be (should be 1 or more)? 9
+What is the name of the file containing the instructions? test_10.txt
+I have a drawing for you...
+It is made of %, repeated 4 times,
+placed in the four corners of a rectangle,
+with a gap of 9 both horizontally and vertically.
+
+%%%%         %%%%
+
+
+
+
+
+
+
+
+
+%%%%         %%%%
+
+Like it?
+I am now going to process the instructions in the file.
+
+       ~
+    %
+        $$$$$$
+         ******
+ #
+        ****************
+    ^^^^
+      $$$$$$$$$$$$$$$$$$$
+
+Ok, but not a great drawing...
+TEST 10 END
+

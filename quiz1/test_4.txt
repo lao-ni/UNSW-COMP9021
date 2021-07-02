@@ -1,0 +1,18 @@
+Draw a line of 12 ^ after 4 spaces.
+#Long years have since elapsed, and my memory is
+#feeble through much suffering.
+
+Draw a line of 11 & after 8 spaces.
+Draw a line of 12 ~ after 1 space.
+Draw a line of 2 % after 3 spaces.
+
+All good so far?
+
+
+Draw a line of 8 ^ after 4 spaces.
+Draw a line of 18 @ after 9 spaces.
+Draw a line of 5 + after 3 spaces.
+
+
+Draw a line of 11 ~ after 4 spaces.
+

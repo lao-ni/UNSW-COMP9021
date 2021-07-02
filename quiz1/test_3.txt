@@ -1,0 +1,6 @@
+Draw a line of 8 + after 7 spaces.
+All good so far?
+Draw a line of 10 % after 7 spaces.
+All good so far?
+Draw a line of 8 ^ after 5 spaces.
+

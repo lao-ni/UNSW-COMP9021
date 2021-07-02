@@ -1,0 +1,2 @@
+Draw a line of 10 ! after 6 spaces.
+
