@@ -1,0 +1,64 @@
+Test 1 ... passed	0.2
+Test 2 ... passed	0.2
+Test 3 ... passed	0.2
+Test 4 ... passed	0.2
+Test 5 ... failed	0
+Test 6 ... passed	0.2
+Test 7 ... passed	0.2
+Test 8 ... passed	0.2
+Test 9 ... passed	0.2
+Test 10 ... passed	0.2
+Test 11 ... passed	0.2
+Test 12 ... passed	0.2
+Test 13 ... passed	0.2
+Test 14 ... passed	0.2
+Test 15 ... passed	0.2
+Test 16 ... passed	0.2
+Test 17_1 ... passed	0.2
+Test 17_2 ... passed	0.25
+Test 18_1 ... passed	0.2
+Test 18_2 ... passed	0.25
+Test 19_1 ... passed	0.2
+Test 19_2 ... passed	0.25
+Test 20_1 ... passed	0.25
+Test 20_2 ... passed	0.2
+Test 21_1 ... passed	0.25
+Test 21_2 ... passed	0.2
+Test 22_1 ... passed	0.25
+Test 22_2 ... passed	0.2
+Test 23_1 ... passed	0.25
+Test 23_2 ... passed	0.2
+Test 24_1 ... passed	0.25
+Test 24_2 ... passed	0.2
+Test 25_1 ... passed	0.25
+Test 25_2 ... failed	0
+Test 26_1 ... passed	0.25
+Test 26_2 ... passed	0.2
+Test 27_1 ... passed	0.25
+Test 27_2 ... passed	0.2
+Test 28_1 ... passed	0.25
+Test 28_2 ... passed	0.2
+Test 29_1 ... passed	0.25
+Test 29_2 ... passed	0.2
+Test 30_1 ... passed	0.25
+Test 30_2 ... passed	0.2
+Test 31 ... passed	0.25
+Test 32 ... passed	0.25
+Test 33 ... passed	0.25
+Test 34 ... passed	0.25
+Test 35 ... passed	0.25
+Test 36 ... passed	0.25
+Test 37 ... passed	0.25
+Test 38 ... passed	0.25
+Test 39 ... passed	0.25
+Test 40 ... passed	0.25
+Test 41 ... passed	0.25
+Test 42 ... passed	0.25
+Test 43 ... passed	0.25
+Test 44 ... passed	0.25
+
+Penalty       	
+
+Bonus         	
+
+Total mark    	12.60
