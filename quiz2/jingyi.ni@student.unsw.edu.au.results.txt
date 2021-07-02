@@ -1,0 +1,76 @@
+Test 1 ... passed	0.05
+Test 2 ... passed	0.05
+Test 3 ... passed	0.05
+Test 4 ... passed	0.05
+Test 5 ... passed	0.05
+Test 6 ... passed	0.05
+Test 7 ... passed	0.05
+Test 8 ... passed	0.05
+Test 9 ... passed	0.05
+Test 10 ... passed	0.05
+Test 11_1 ... passed	0.025
+Test 11_2 ... passed	0.05
+Test 11_3 ... passed	0.05
+Test 12_1 ... passed	0.025
+Test 12_2 ... passed	0.05
+Test 12_3 ... passed	0.05
+Test 13_1 ... passed	0.025
+Test 13_2 ... passed	0.05
+Test 13_3 ... passed	0.05
+Test 14_1 ... passed	0.025
+Test 14_2 ... passed	0.05
+Test 14_3 ... passed	0.05
+Test 15_1 ... passed	0.025
+Test 15_2 ... passed	0.05
+Test 15_3 ... passed	0.05
+Test 16_1 ... passed	0.025
+Test 16_2 ... passed	0.05
+Test 16_3 ... passed	0.05
+Test 17_1 ... passed	0.025
+Test 17_2 ... passed	0.05
+Test 17_3 ... passed	0.05
+Test 18_1 ... passed	0.025
+Test 18_2 ... passed	0.05
+Test 18_3 ... passed	0.05
+Test 19_1 ... passed	0.025
+Test 19_2 ... passed	0.05
+Test 19_3 ... passed	0.05
+Test 20_1 ... passed	0.025
+Test 20_2 ... passed	0.05
+Test 20_3 ... passed	0.05
+Test 21_1 ... passed	0.025
+Test 21_2 ... passed	0.05
+Test 21_3 ... passed	0.05
+Test 22_1 ... passed	0.025
+Test 22_2 ... passed	0.05
+Test 22_3 ... passed	0.05
+Test 23_1 ... passed	0.025
+Test 23_2 ... passed	0.05
+Test 23_3 ... passed	0.05
+Test 24_1 ... passed	0.025
+Test 24_2 ... passed	0.05
+Test 24_3 ... passed	0.05
+Test 25_1 ... passed	0.025
+Test 25_2 ... passed	0.05
+Test 25_3 ... passed	0.05
+Test 26_1 ... passed	0.025
+Test 26_2 ... passed	0.05
+Test 26_3 ... passed	0.05
+Test 27_1 ... passed	0.025
+Test 27_2 ... passed	0.05
+Test 27_3 ... passed	0.05
+Test 28_1 ... passed	0.025
+Test 28_2 ... passed	0.05
+Test 28_3 ... passed	0.05
+Test 29_1 ... passed	0.025
+Test 29_2 ... passed	0.05
+Test 29_3 ... passed	0.05
+Test 30_1 ... passed	0.025
+Test 30_2 ... passed	0.05
+Test 30_3 ... passed	0.05
+
+Penalty       	
+
+Bonus         	
+
+Total mark    	3.000
