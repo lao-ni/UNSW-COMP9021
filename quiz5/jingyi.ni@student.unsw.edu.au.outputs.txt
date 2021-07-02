@@ -1,0 +1,177 @@
+TEST 1 BEGIN
+$ echo Helena | python3 quiz_5.py
+Helena
+Enter a male first name: Helena is not a male first name in my records.
+TEST 1 END
+
+TEST 2 BEGIN
+$ echo Clark | python3 quiz_5.py
+Clark
+Enter a male first name: By decreasing order of frequency, Clark was most popular in the following years:
+    1881
+Its rank was 176 then.
+TEST 2 END
+
+TEST 3 BEGIN
+$ echo Donald | python3 quiz_5.py
+Donald
+Enter a male first name: By decreasing order of frequency, Donald was most popular in the following years:
+    1934
+Its rank was 6 then.
+TEST 3 END
+
+TEST 4 BEGIN
+$ echo Joseph | python3 quiz_5.py
+Joseph
+Enter a male first name: By decreasing order of frequency, Joseph was most popular in the following years:
+    1914 1913 1912 1915 1916
+    1917
+Its rank was 5 then.
+TEST 4 END
+
+TEST 5 BEGIN
+$ echo Robert | python3 quiz_5.py
+Robert
+Enter a male first name: By decreasing order of frequency, Robert was most popular in the following years:
+    1931 1937 1932 1930 1936
+    1938 1929 1926 1928 1927
+    1933 1925 1935 1934 1939
+    1924 1953
+Its rank was 1 then.
+TEST 5 END
+
+TEST 6 BEGIN
+$ echo James | python3 quiz_5.py
+James
+Enter a male first name: By decreasing order of frequency, James was most popular in the following years:
+    1944 1943 1942 1945 1941
+    1940 1946 1947 1948 1949
+    1950 1951 1952
+Its rank was 1 then.
+TEST 6 END
+
+TEST 7 BEGIN
+$ echo Steven | python3 quiz_5.py
+Steven
+Enter a male first name: By decreasing order of frequency, Steven was most popular in the following years:
+    1955 1956 1957 1960 1959
+    1958 1961
+Its rank was 10 then.
+TEST 7 END
+
+TEST 8 BEGIN
+$ echo Howard | python3 quiz_5.py
+Howard
+Enter a male first name: By decreasing order of frequency, Howard was most popular in the following years:
+    1920 1919
+Its rank was 24 then.
+TEST 8 END
+
+TEST 9 BEGIN
+$ echo Mark | python3 quiz_5.py
+Mark
+Enter a male first name: By decreasing order of frequency, Mark was most popular in the following years:
+    1960 1961 1959 1962 1963
+    1964
+Its rank was 6 then.
+TEST 9 END
+
+TEST 10 BEGIN
+$ echo Mike | python3 quiz_5.py
+Mike
+Enter a male first name: By decreasing order of frequency, Mike was most popular in the following years:
+    1960 1961
+Its rank was 36 then.
+TEST 10 END
+
+TEST 11 BEGIN
+$ echo Brian | python3 quiz_5.py
+Brian
+Enter a male first name: By decreasing order of frequency, Brian was most popular in the following years:
+    1973 1972 1974 1977 1975
+    1976 1970
+Its rank was 8 then.
+TEST 11 END
+
+TEST 12 BEGIN
+$ echo Wayne | python3 quiz_5.py
+Wayne
+Enter a male first name: By decreasing order of frequency, Wayne was most popular in the following years:
+    1946
+Its rank was 29 then.
+TEST 12 END
+
+TEST 13 BEGIN
+$ echo Casey | python3 quiz_5.py
+Casey
+Enter a male first name: By decreasing order of frequency, Casey was most popular in the following years:
+    1987
+Its rank was 80 then.
+TEST 13 END
+
+TEST 14 BEGIN
+$ echo Daniel | python3 quiz_5.py
+Daniel
+Enter a male first name: By decreasing order of frequency, Daniel was most popular in the following years:
+    1985 1990 2007 2008
+Its rank was 5 then.
+TEST 14 END
+
+TEST 15 BEGIN
+$ echo Benjamin | python3 quiz_5.py
+Benjamin
+Enter a male first name: By decreasing order of frequency, Benjamin was most popular in the following years:
+    2016 2017 2018
+Its rank was 6 then.
+TEST 15 END
+
+TEST 16 BEGIN
+$ echo William | python3 quiz_5.py
+William
+Enter a male first name: By decreasing order of frequency, William was most popular in the following years:
+    1880 1881 1882 1883 1884
+    1885 1886 1887 1888 1889
+    1890 1891 1896 1893 1897
+    1892 1894 1895 1898 1899
+    1900 1901 1902 1903 1904
+    1906 1905 1908 1909 1920
+    1907 1911 1913 1917 1912
+    1915 1914 1916 1919 1918
+
+Its rank was 2 then.
+TEST 16 END
+
+TEST 17 BEGIN
+$ echo Samuel | python3 quiz_5.py
+Samuel
+Enter a male first name: By decreasing order of frequency, Samuel was most popular in the following years:
+    1880 1881 1883 1882 1884
+
+Its rank was 17 then.
+TEST 17 END
+
+TEST 18 BEGIN
+$ echo Justin | python3 quiz_5.py
+Justin
+Enter a male first name: By decreasing order of frequency, Justin was most popular in the following years:
+    1988
+Its rank was 7 then.
+TEST 18 END
+
+TEST 19 BEGIN
+$ echo Jason | python3 quiz_5.py
+Jason
+Enter a male first name: By decreasing order of frequency, Jason was most popular in the following years:
+    1974 1977 1976 1975 1978
+
+Its rank was 2 then.
+TEST 19 END
+
+TEST 20 BEGIN
+$ echo Peter | python3 quiz_5.py
+Peter
+Enter a male first name: By decreasing order of frequency, Peter was most popular in the following years:
+    1880
+Its rank was 31 then.
+TEST 20 END
+

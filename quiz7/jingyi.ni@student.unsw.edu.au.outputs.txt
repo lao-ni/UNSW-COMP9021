@@ -1,0 +1,270 @@
+TEST 1 BEGIN
+$ echo 456 20 | python3 quiz_7.py
+Enter two positive integers: 456 20
+Here is the grid that has been generated:
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 0 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 0 1
+    0 0 1 1 1 1 1 1 1 1
+The size of the largest homogenous region from the top left corner is 96.
+The size of the largest area with a checkers structure is 5.
+TEST 1 END
+
+TEST 2 BEGIN
+$ echo 556 19 | python3 quiz_7.py
+Enter two positive integers: 556 19
+Here is the grid that has been generated:
+    1 1 1 1 1 1 1 0 1 1
+    1 1 1 1 1 0 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 0 1 1 1
+    1 1 1 1 1 0 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+The size of the largest homogenous region from the top left corner is 96.
+The size of the largest area with a checkers structure is 8.
+TEST 2 END
+
+TEST 3 BEGIN
+$ echo 656 18 | python3 quiz_7.py
+Enter two positive integers: 656 18
+Here is the grid that has been generated:
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 0 1
+    1 1 1 1 1 1 0 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 0 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 0 1 1 1 1 1 1 1 1
+    0 1 1 1 1 1 1 1 1 1
+The size of the largest homogenous region from the top left corner is 95.
+The size of the largest area with a checkers structure is 6.
+TEST 3 END
+
+TEST 4 BEGIN
+$ echo 756 15 | python3 quiz_7.py
+Enter two positive integers: 756 15
+Here is the grid that has been generated:
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    0 1 1 1 1 1 1 1 1 1
+    1 0 1 1 1 1 1 1 1 1
+    0 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 0 1 1 1 1 1 1 1 1
+    1 1 1 1 1 0 1 1 1 1
+    1 1 1 1 1 1 1 1 1 0
+    1 1 1 0 1 1 1 1 1 1
+The size of the largest homogenous region from the top left corner is 92.
+The size of the largest area with a checkers structure is 9.
+TEST 4 END
+
+TEST 5 BEGIN
+$ echo 856 10 | python3 quiz_7.py
+Enter two positive integers: 856 10
+Here is the grid that has been generated:
+    1 1 1 0 1 1 1 1 1 1
+    1 1 1 1 1 1 1 0 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 0 1 1
+    1 1 1 1 1 1 0 1 1 1
+    1 1 1 1 1 1 1 0 0 1
+    1 1 0 1 0 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+The size of the largest homogenous region from the top left corner is 92.
+The size of the largest area with a checkers structure is 10.
+TEST 5 END
+
+TEST 6 BEGIN
+$ echo 956 9 | python3 quiz_7.py
+Enter two positive integers: 956 9
+Here is the grid that has been generated:
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 0 1
+    1 1 0 1 1 1 1 1 1 1
+    1 1 1 1 1 1 0 1 0 1
+    1 0 1 1 1 1 1 1 0 1
+    0 1 1 1 1 1 1 0 1 1
+    1 1 1 1 1 1 1 1 1 0
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 0 1 0 1 1 1 1 1 1
+The size of the largest homogenous region from the top left corner is 89.
+The size of the largest area with a checkers structure is 12.
+TEST 6 END
+
+TEST 7 BEGIN
+$ echo 1056 8 | python3 quiz_7.py
+Enter two positive integers: 1056 8
+Here is the grid that has been generated:
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 0 0 1
+    0 1 0 1 0 1 1 1 1 1
+    1 1 1 1 0 1 1 1 0 1
+    1 1 1 1 1 1 0 1 1 0
+    1 1 1 1 0 1 1 1 1 1
+    1 1 0 1 1 1 1 1 1 1
+    1 1 1 0 1 1 0 1 1 1
+    1 1 0 1 1 1 1 1 0 1
+    1 0 1 1 1 1 1 1 1 1
+The size of the largest homogenous region from the top left corner is 84.
+The size of the largest area with a checkers structure is 13.
+TEST 7 END
+
+TEST 8 BEGIN
+$ echo 1156 3 | python3 quiz_7.py
+Enter two positive integers: 1156 3
+Here is the grid that has been generated:
+    0 1 1 1 1 1 0 1 1 1
+    0 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 0 0 1 0 1
+    1 1 1 1 1 1 1 1 0 1
+    1 0 1 1 1 0 1 1 1 1
+    1 1 0 1 1 1 1 1 1 1
+    0 1 1 1 0 1 0 1 1 1
+    1 1 1 1 1 1 1 1 1 0
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 0 1 1 1 1
+The size of the largest homogenous region from the top left corner is 2.
+The size of the largest area with a checkers structure is 10.
+TEST 8 END
+
+TEST 9 BEGIN
+$ echo 1256 4 | python3 quiz_7.py
+Enter two positive integers: 1256 4
+Here is the grid that has been generated:
+    1 0 0 1 1 1 1 1 1 0
+    1 0 1 0 0 1 0 1 1 1
+    1 1 0 1 0 1 1 0 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 0 1 0 1 1 1 1 1 0
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 0 0 1 1 1
+    1 1 1 1 1 0 1 1 0 1
+    1 0 1 0 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 0
+The size of the largest homogenous region from the top left corner is 79.
+The size of the largest area with a checkers structure is 13.
+TEST 9 END
+
+TEST 10 BEGIN
+$ echo 1356 2 | python3 quiz_7.py
+Enter two positive integers: 1356 2
+Here is the grid that has been generated:
+    0 1 0 1 1 1 1 0 0 1
+    1 0 1 1 1 0 1 1 0 1
+    0 0 1 1 0 1 1 1 1 1
+    0 0 1 1 1 1 0 0 0 1
+    1 1 1 1 1 0 1 0 1 0
+    1 0 1 1 1 0 1 1 1 1
+    1 0 1 1 0 0 1 0 1 1
+    0 1 1 1 1 0 1 1 1 1
+    1 1 1 0 0 0 0 1 1 1
+    0 0 1 1 1 1 1 0 1 0
+The size of the largest homogenous region from the top left corner is 1.
+The size of the largest area with a checkers structure is 24.
+TEST 10 END
+
+TEST 11 BEGIN
+$ echo 1456 3 | python3 quiz_7.py
+Enter two positive integers: 1456 3
+Here is the grid that has been generated:
+    1 1 0 1 1 0 1 1 0 1
+    1 1 1 1 1 1 1 1 1 0
+    0 0 0 1 1 1 1 1 1 0
+    1 0 1 1 1 1 1 1 1 1
+    1 0 1 1 1 1 1 1 1 0
+    0 0 1 1 1 1 1 1 1 0
+    1 1 1 1 0 1 1 0 1 1
+    1 1 1 1 0 1 1 1 1 1
+    1 1 0 1 1 1 1 0 1 1
+    1 0 1 0 1 1 0 1 1 1
+The size of the largest homogenous region from the top left corner is 74.
+The size of the largest area with a checkers structure is 11.
+TEST 11 END
+
+TEST 12 BEGIN
+$ echo 1556 2 | python3 quiz_7.py
+Enter two positive integers: 1556 2
+Here is the grid that has been generated:
+    1 1 1 1 1 1 1 1 1 0
+    1 1 1 0 1 1 1 0 0 1
+    1 0 0 1 1 1 1 0 1 1
+    1 0 1 1 0 0 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1
+    1 0 0 1 0 1 1 1 1 1
+    1 0 1 1 1 1 1 1 0 1
+    1 1 1 0 0 0 1 0 0 0
+    1 1 0 0 1 0 1 1 1 1
+    1 1 1 1 1 0 0 0 1 1
+The size of the largest homogenous region from the top left corner is 73.
+The size of the largest area with a checkers structure is 21.
+TEST 12 END
+
+TEST 13 BEGIN
+$ echo 1656 2 | python3 quiz_7.py
+Enter two positive integers: 1656 2
+Here is the grid that has been generated:
+    1 1 1 1 1 0 1 0 1 0
+    1 1 1 1 1 1 1 0 1 1
+    0 1 1 1 1 0 0 1 1 1
+    1 1 1 1 0 0 1 1 1 0
+    0 1 0 0 1 1 1 1 0 1
+    1 0 1 1 1 1 0 0 1 1
+    0 1 0 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 0 0
+    1 1 0 1 1 1 0 0 1 0
+    0 1 1 0 1 0 0 1 0 1
+The size of the largest homogenous region from the top left corner is 22.
+The size of the largest area with a checkers structure is 27.
+TEST 13 END
+
+TEST 14 BEGIN
+$ echo 1756 3 | python3 quiz_7.py
+Enter two positive integers: 1756 3
+Here is the grid that has been generated:
+    1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 0 0 0 0 1 0
+    0 1 1 1 1 1 0 1 0 0
+    1 1 0 1 1 1 1 1 1 1
+    1 1 0 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 0 1
+    1 1 1 0 1 0 0 1 1 0
+    1 0 1 1 1 0 1 1 0 0
+    0 1 0 0 1 1 1 1 0 1
+    1 0 0 1 1 0 0 1 0 1
+The size of the largest homogenous region from the top left corner is 67.
+The size of the largest area with a checkers structure is 13.
+TEST 14 END
+
+TEST 15 BEGIN
+$ echo 1856 2 | python3 quiz_7.py
+Enter two positive integers: 1856 2
+Here is the grid that has been generated:
+    1 1 1 0 1 0 1 1 1 1
+    1 1 0 1 1 0 1 1 1 1
+    1 1 0 1 0 1 1 1 1 1
+    0 0 1 1 1 1 1 0 1 0
+    0 0 1 0 1 0 1 0 0 0
+    0 1 1 1 0 1 0 1 1 0
+    0 0 1 1 1 1 1 0 0 1
+    1 0 1 0 1 1 0 1 0 1
+    0 0 1 1 0 1 1 1 1 1
+    1 1 0 0 1 0 0 1 1 1
+The size of the largest homogenous region from the top left corner is 7.
+The size of the largest area with a checkers structure is 30.
+TEST 15 END
+
